@@ -1,0 +1,62 @@
+.menu {
+  /* add correct code to place the menu correctly.*/
+
+  background-color:red;
+  border-color: yellow;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: white;
+
+
+
+
+  display: flex;
+  justify-content: space-between;
+
+  
+}
+body {
+  background-color: whitesmoke;
+}
+
+
+.grid img {
+  border: 5px solid black;
+  
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+ 
+}
+
+
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+
+
+
+.languages{
+
+  border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+}
+
+
+a:hover, a:active {
+  color: rgb(255, 255, 255);
+  border: 3px solid black;
+}
+
+
